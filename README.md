@@ -151,7 +151,7 @@ Optional argument to set the data items to be displayed in compatible [VIEW MODE
 
 # References
 
-- [Mercado Bitcoin](https://www.mercadobitcoin.com.br) [Data API](https://www.mercadobitcoin.com.br/api-doc/)
+- [Mercado Bitcoin Data API](https://www.mercadobitcoin.com.br/api-doc/)
 - Inspired by [coinmon](https://github.com/bichenkk/coinmon)
 
 ## License
