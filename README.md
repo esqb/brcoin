@@ -65,37 +65,37 @@ $ brcoin
 
 ```sh
 # Display table view with updated bitcoin price data
-brcoin btc
+$ brcoin btc
 ```
 
 ```sh
 # Display table view with Bitcoin Cash, Bitcoin, Ethereum and Link coin updated price data
-brcoin bch btc eth link
+$ brcoin bch btc eth link
 ```
 
 ```sh
 # Display Litecoin raw updated price
-brcoin ltc -r
+$ brcoin ltc -r
 ```
 
 ```sh
 # Display single view Ripple updated price data
-brcoin xrp -single
+$ brcoin xrp -single
 ```
 
 ```sh
 # Display Bitcoin price data rounded to 2 decimal places with brazilian real currency symbol
-brcoin btc -d2 -c
+$ brcoin btc -d2 -c
 ```
 
 ```sh
 # display Bitcoin highest price of the day data
-brcoin btc -r --high
+$ brcoin btc -r --high
 ```
 
 ```sh
 # Display Ethereum rounded opening price of the day data with brazilian real currency symbol
-brcoin eth -d -c --buy
+$ brcoin eth -d -c --buy
 ```
 
 ## Options
