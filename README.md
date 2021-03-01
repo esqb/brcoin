@@ -18,16 +18,9 @@
 
 `brcoin` runs on bash shell for Linux, Windows and Mac.
 
-## Table of Contents
+## Screenshot
 
-- [Installation](#installation)
-- [Requirement](#requirement)
-- [Usage](#usage)
-- [Screenshot](#screenshot)
-- [Examples](#examples)
-- [Options](#options)
-- [References](#references) 
-- [License](#license)
+<img src="https://i.postimg.cc/JhmMpCXx/screenshot.png" />
 
 ## Installation
 ### Step 1
@@ -61,10 +54,6 @@ $ sudo apt-get install jq
 # Display table view with all listed cryptocurrency prices 
 $ brcoin
 ```
-
-## Screenshot
-
-<img src="https://i.postimg.cc/JhmMpCXx/screenshot.png" />
 
 ## Examples 
 
