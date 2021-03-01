@@ -10,7 +10,7 @@
 
 ## Features
 
-- 10+ cryptocurrency price data
+- 10+ listed cryptocurrencies
 - Table view with multiple coins tracking 
 - Raw price data you can integrate with your own project
 - Price rounding and add currency symbol options
