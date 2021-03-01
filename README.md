@@ -1,4 +1,4 @@
-[![brcoin-logo.png](https://i.postimg.cc/8cjQJKVh/brcoin-logo.png)](https://postimg.cc/Fk5nwxzR)
+<p align="center"><img src="https://i.postimg.cc/8cjQJKVh/brcoin-logo.png" /></p>
 ## Cryptocurrency prices in brazilian reais on command line
 `brcoin` is an open source bash script to view cryptocurrency prices from Mercado Bitcoin public API on command line.
 
