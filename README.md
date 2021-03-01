@@ -20,7 +20,7 @@
 
 ## Table of Contents
 
-- [Installation](https://www.github.com/esqb/brcoin#installation)
+- [Installation](#installation)
 - [Requirement](https://www.github.com/esqb/brcoin#requirement)
 - [Usage](https://www.github.com/esqb/brcoin#usage)
 - [Examples](https://www.github.com/esqb/brcoin#examples)
