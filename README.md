@@ -21,12 +21,12 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Requirement](https://www.github.com/esqb/brcoin#requirement)
-- [Usage](https://www.github.com/esqb/brcoin#usage)
-- [Examples](https://www.github.com/esqb/brcoin#examples)
-- [Options](https://www.github.com/esqb/brcoin#options)
-- [References](https://www.github.com/esqb/brcoin#references) 
-- [License](https://www.github.com/esqb/brcoin#license)
+- [Requirement](#requirement)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Options](#options)
+- [References](#references) 
+- [License](#license)
 
 ## Installation
 ### Step 1
