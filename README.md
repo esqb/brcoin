@@ -39,7 +39,7 @@ Add the script path to your $PATH (or simply move it to a folder already in your
 $ export PATH=$PATH:$pwd
 ```
 
-## Requirement
+## Dependency
 
 Requires [jq](https://stedolan.github.io/jq/) to parse JSON data. Make sure to install it before running `brcoin`.
 
