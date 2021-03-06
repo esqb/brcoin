@@ -36,7 +36,7 @@ $ sudo chmod +x brcoin
 ### Step 3
 Add the script path to your $PATH (or simply move it to a folder already in your $PATH):
 ```sh
-$ export PATH=$PATH:$pwd
+$ export PATH=$PATH:$PWD
 ```
 
 ## Dependency
